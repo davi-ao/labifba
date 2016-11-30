@@ -1,4 +1,4 @@
-## LabIFBA
+## LabIFBA versão 0.7.1
 
 Sistema de gerenciamento de laboratórios do IFBA baseado na web. Trabalho de Conclusão de Curso de Lucas Duarte, sob orientação da Professora Carina Farias.
 
