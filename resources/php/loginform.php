@@ -2,9 +2,11 @@
 <html lang="pt-BR">
 <head>
 	<meta charset="UTF-8">
-	<title>LabIFBA</title>
+	<meta name="viewport" content="user-scalable=no, width=device-width">
+    <title>LabIFBA</title>
 	<link href="resources/img/favicon.png" rel="shortcut icon" type="image/x-icon">
 	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="resources/css/mobile.css" rel="stylesheet" type="text/css" media="only screen and (max-width: 767px)">
 </head>
 <body class="container-fluid">
 

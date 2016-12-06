@@ -2,10 +2,12 @@
 <html lang="pt-BR">
 <head>
 	<meta charset="UTF-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width">
 	<title>LabIFBA</title>
     <link href="resources/img/favicon.png" rel="shortcut icon" type="image/x-icon">
 	<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-	<link href="resources/css/styles.css" rel="stylesheet" type="text/css">
+	<link href="resources/css/styles.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 768px)">
+    <link href="resources/css/mobile.css" rel="stylesheet" type="text/css" media="only screen and (max-width: 767px)">
 	<script src="vendor/jquery/jquery-3.1.1.min.js"></script>
 	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <script src="vendor/printThis-master/printThis.js"></script>
